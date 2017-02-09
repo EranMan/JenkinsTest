@@ -58,8 +58,8 @@ android {
 
     //渠道Flavors，我这里写了一些常用的
     productFlavors {
-        commonsoon {
-            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "commonsoon"]
+        Xiaomi {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "Xiaomi"]
         }
        /* zhushou91 {
             manifestPlaceholders = [UMENG_CHANNEL_VALUE: "zhushou91"]
